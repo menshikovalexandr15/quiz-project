@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+}
+button {
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 8px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.progress-container {
+    border: 1px solid #999;
+    background: #eee;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.progress-fill {
+    background: #4CAF50;
+    width: 0%;
+    height: 20px;
+}
+hr {
+    margin: 15px 0;
+}
